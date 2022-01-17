@@ -106,7 +106,14 @@ body{
 @media(max-width:768px){
 	.article{
 		width: 70%;
+		max-height: 600px;
 	}
+
+	.article2{
+		
+		max-height: 600px;
+	}
+
 
 	.imgbox{
 		margin-top: 800px;
